@@ -28,6 +28,11 @@ public class JulyDemo {
 		md.das2();
 		md.das3();
 
+		maydemo md1 = new maydemo();
+		md1.das1();
+		md1.das2();
+		md1.das3();
+
 	}
 
 }
