@@ -13,6 +13,10 @@ class maydemo {
 		System.out.println("Hello world 3");
 	}
 
+	void das4() {
+		System.out.println("Hello world 3");
+	}
+
 }
 
 public class JulyDemo {
